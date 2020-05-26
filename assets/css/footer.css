@@ -1,0 +1,8 @@
+footer{
+    display:block;
+}
+#footer-logo{
+    height:75.5vh;
+    width:75.5vh;
+    border-radius: 50%;
+}
